@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "No working on Friday"
+
+[build]
+build-dir = "docs"
+create-missing = false
